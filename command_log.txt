@@ -1,0 +1,13 @@
+Command: hello, Response: Hello to you too!
+Command: move, Response: start moving 
+Command: how are you, Response: I'm just a program, but thanks for asking!
+Command: stop, Response: stop moving
+Command: hello, Response: Hello to you too!
+Command: move, Response: start moving 
+Command: stop, Response: stop moving
+Command: how are you, Response: I'm just a program, but thanks for asking!
+Command: exit, Response: Goodbye!
+Command: hello, Response: Hello to you too!
+Command: move, Response: start moving 
+Command: stop, Response: stop moving
+Command: exit, Response: Goodbye!
